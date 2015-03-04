@@ -24,7 +24,7 @@ Invoke-Repave {
     Install-ChocolateyPackage google-chrome-x64
     Install-ChocolateyPackage firefox
     Install-ChocolateyPackage diffmerge
-    
+    Install-ChocolateyPackage dotpeek
    
    
 	
